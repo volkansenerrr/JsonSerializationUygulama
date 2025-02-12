@@ -1,0 +1,10 @@
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\JsonSerializationUygulama\JsonSerializationUygulama\bin\Debug\JsonSerializationUygulama.exe.config
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\JsonSerializationUygulama\JsonSerializationUygulama\bin\Debug\JsonSerializationUygulama.exe
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\JsonSerializationUygulama\JsonSerializationUygulama\bin\Debug\JsonSerializationUygulama.pdb
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\JsonSerializationUygulama\JsonSerializationUygulama\bin\Debug\Newtonsoft.Json.dll
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\JsonSerializationUygulama\JsonSerializationUygulama\bin\Debug\Newtonsoft.Json.xml
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\JsonSerializationUygulama\JsonSerializationUygulama\obj\Debug\JsonSerializationUygulama.csproj.AssemblyReference.cache
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\JsonSerializationUygulama\JsonSerializationUygulama\obj\Debug\JsonSerializationUygulama.csproj.CoreCompileInputs.cache
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\JsonSerializationUygulama\JsonSerializationUygulama\obj\Debug\JsonSeri.CE7A84EC.Up2Date
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\JsonSerializationUygulama\JsonSerializationUygulama\obj\Debug\JsonSerializationUygulama.exe
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\JsonSerializationUygulama\JsonSerializationUygulama\obj\Debug\JsonSerializationUygulama.pdb
